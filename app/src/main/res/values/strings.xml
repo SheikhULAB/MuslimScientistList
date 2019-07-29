@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">MuslimScientist</string>
+
+    <string-array name="MuslimScientist">
+
+        <item>জ্যোতির্বিদ্যা</item>
+        <item>জীববিজ্ঞানীরা</item>
+        <item>স্নায়ুবিজ্ঞানী</item>
+        <item>মনোবৈজ্ঞানিকরা</item>
+        <item>রসায়নবিদ</item>
+        <item>গণিতবিদ</item>
+        <item>অর্থনীতিবিদরা</item>
+        <item>সামাজিক বিজ্ঞানীরা</item>
+        <item>ভূগোলবিদরা</item>
+        <item>পৃথিবী বিজ্ঞানীরা</item>
+        <item>দার্শনিকরা</item>
+        <item>চিকিৎসক</item>
+        <item>পদার্থবিদরা</item>
+        <item>রাজনৈতিক বিজ্ঞানীরা</item>
+        <item>ইতিহাসবেত্তা</item>
+        <item>মুসলিম পণ্ডিত</item>
+
+    </string-array>
+
+    <string-array name="astronomy">
+        <item>বানু মুসা</item>
+        <item>আল ফারাবি</item>
+        <item>আল ফারগানি</item>
+        <item>আল বাত্তানি</item>
+        <item>ইবন ইউনুস</item>
+        <item>আল বিরুনী</item>
+        <item>ইবন বাজ্জাহা</item>
+        <item>তারিক মারুফ</item>
+        <item>উলুগ বেগ</item>
+        <item>নাসির উদ্দিন আল তুসি</item>
+    </string-array>
+
+    <string-array name="biology">
+        <item>আজিজ সাঞ্ছার</item>
+        <item>আহমেদ রেজা</item>
+        <item>আল কিন্দি</item>
+        <item>আবু কাসেম আল জাও্যারি</item>
+        <item>ইবন জুহুর</item>
+        <item>সায়েদ যিয়াউর রাহমান</item>
+        <item>ইবন তুফায়েলা</item>
+        <item>সামির হোসেন</item>
+        <item>ইবন শিরিন</item>
+        <item>আল তাবারি</item>
+        <item>আল বাল্কি</item>
+
+    </string-array>
+
+    <string-array name="chemist">
+        <item>খালিদ ইবন ও্যালিদ</item>
+        <item>জাফর আল সাদিক</item>
+        <item>যাবির ইবন হাইয়ান</item>
+        <item>আল মাজ্রিতি</item>
+        <item>মুস্তাফা আল সাইদ</item>
+        <item>আহমেদ জুয়েল</item>
+        <item>আতাউর রহমান</item>
+        <item>আব্দল কাদের খান</item>
+        <item>সালিম সিদ্দিকি</item>
+        <item>ওমর ইয়াঘি</item>
+    </string-array>
+
+
+    <string-array name="math">
+        <item>মুহাম্মাদ আল-গরিদম</item>
+        <item>মাসাতসি গুন্দুয</item>
+        <item>ইবন ইয়ুসুফ</item>
+        <item>কুতুবউদ্দিন সিরাজি</item>
+        <item>সারিফুদ্দিন তুসি</item>
+        <item>তাকি আল দিন ইবন মারুফ</item>
+        <item>আল মাগ্রিবিা</item>
+        <item>ইবন শাতির</item>
+        <item>নাসিরুদ্দিন তুসি</item>
+        <item>ইবন ঈশহাক</item>
+    </string-array>
+
+
+
+    <string-array name="phil">
+        <item>আল কিন্দি</item>
+        <item>ইবন রুশদ</item>
+        <item>মুহাম্মাদ আল রাযী</item>
+        <item>আল ফারাবি</item>
+        <item>ইবন সিনা</item>
+        <item>ইবন আরাবি</item>
+        <item>রুমি</item>
+        <item>জামি</item>
+        <item>ইবন খালদুন</item>
+        <item>মুহাম্মাদ ইকবাল</item>
+    </string-array>
+
+
+    <string-array name="politics">
+        <item>শাহ্‌ অলিউল্লাহ</item>
+        <item>সায়েদ কুতুব</item>
+        <item>আবুল আলা মাউদুদি</item>
+        <item>হাসান আল বান্না</item>
+        <item>মুহাম্মাদ আলি জিন্নাহ</item>
+        <item>মুহাম্মাদ বাকির আল সাদির</item>
+        <item>হাসান আল তুরাবি</item>
+        <item>রাশিদ আল ঘান্নুশী</item>
+        <item>মাওলানা আবুল কালাম আজাদ</item>
+        <item>আল্লামা মুহাম্মাদ ইকবাল</item>
+    </string-array>
+
+
+    <string-array name="physics">
+        <item>মিমার সিনান</item>
+        <item>বানু মুসা</item>
+        <item>আল জাজারি</item>
+        <item>ইবন আল শাতির</item>
+        <item>জামাল নজরুল ইসলাম</item>
+        <item>ফারুক আল বাজ্জ</item>
+        <item>কেরিম কেরিমভ</item>
+        <item>আব্দুল কালাম</item>
+        <item>লাগারি হাসান চেলেবি</item>
+        <item>হাজারফেন আহমেদ চেলেবি</item>
+    </string-array>
+
+    <string-array name="doctor">
+        <item>আল তামিমি</item>
+        <item>ইবন সিনা</item>
+        <item>ইবন আল নাফিস</item>
+        <item>শেইখ মুস্তাফির শুকুর</item>
+        <item>ইবন বাজ্জা</item>
+        <item>ইবন তুফায়েল</item>
+        <item>আব্বাস আল মাজুসি</item>
+        <item>মান্সুর ইবন ইলিয়াস</item>
+        <item>কামাল আলদিন ফারসি </item>
+        <item>ইবন আল খাতিব</item>
+    </string-array>
+
+    <string-array name="earth">
+        <item>আল মাসুদি</item>
+        <item>আল হামদানি</item>
+        <item>মুহাম্মাদ আল ইদ্রিসী</item>
+        <item>পিরি রেইস</item>
+        <item>ইবন বতুতা</item>
+        <item>আব্দুল লাতিফ আল বাগদাদি</item>
+        <item>ইবন যুবায়ের</item>
+        <item>আল মাসিহি</item>
+        <item>আবু রায়হান আল বিরুনি</item>
+        <item>আহমেদ ইবন ফাদলান</item>
+    </string-array>
+
+
+<string name="banumusa">
+    banu musa is a scientist
+</string>
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
